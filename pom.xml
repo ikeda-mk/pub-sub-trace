@@ -6,7 +6,8 @@
 	<modules>
 		<module>publisher</module>
 		<module>subscriber</module>
-	</modules>
+        <module>service3</module>
+    </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
